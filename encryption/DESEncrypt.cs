@@ -2,7 +2,7 @@ using System;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace Common
+namespace Common.encryption
 {
     /// <summary>
     /// DES加密/解密类。
